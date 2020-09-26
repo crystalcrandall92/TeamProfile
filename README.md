@@ -21,7 +21,7 @@ Use "node app" to start the questions for the template.
 ### Contribution Guidelines
 See contact information
 ### Test Instructions
-"node app"
+Run "node app"
 ### Questions and Contact
 #### Github Username: crystalcrandall92
 #### Github Link: https://github.com/crystalcrandall92
