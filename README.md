@@ -6,7 +6,7 @@
 3. [Usage](#usage-information)
 4. [Contribution](#contribution-guidelines)
 5. [Test](#test-instructions)
-6. [Questions and Contact](#questions?-contact-information-below)
+6. [Questions and Contact](#questions-and-contact)
 ### Description
 This app is designed to take the user's input for a manager, engineer, and intern team and display them using certain categories for each one.
 
