@@ -6,7 +6,7 @@
 3. [Usage](#usage-information)
 4. [Contribution](#contribution-guidelines)
 5. [Test](#test-instructions)
-6. [Questions & Contact](#questions?-contact-information-below)
+6. [Questions and Contact](#questions?-contact-information-below)
 ### Description
 This app is designed to take the user's input for a manager, engineer, and intern team and display them using certain categories for each one.
 
@@ -22,7 +22,7 @@ Use "node app" to start the questions for the template.
 See contact information
 ### Test Instructions
 "node app"
-### Questions and Contact Information Below
+### Questions and Contact
 #### Github Username: crystalcrandall92
 #### Github Link: https://github.com/crystalcrandall92
 #### Email: crystalcrandall92@yahoo.com
